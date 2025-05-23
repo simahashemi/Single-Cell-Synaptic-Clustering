@@ -6,7 +6,7 @@ This repository contains code and analysis from my Master's thesis project in co
 
 ## 🧩 Project Summary
 
-In this work, I developed a hybrid model combining:
+The simulation includes:
 - A **compartmental neuron** with active dendritic compartments
 - A network of **point neurons** simulating the input cell assemblies
 
