@@ -1,4 +1,4 @@
-# 🧠 Single-cell-simulation
+# 🧠 Single-Cell-Synaptic-Clustering
 
 This repository contains code and analysis from my Master's thesis project in computational neuroscience. The project investigates how **dendritic calcium-mediated action potentials (dCaAPs)** influence **synaptic clustering** in a simulated single cell.
 
